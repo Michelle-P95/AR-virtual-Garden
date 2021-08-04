@@ -1,0 +1,48 @@
+﻿Produkt ;Menge;Einheit ;Kategorie ;Wasser/ liter;C02/ Kg ;Abholzung/ m²;Plastik / g ; Kohlenstoffdioxid ;Abholzung;Plastikverschmutzung;Wasserverbrauch 
+Banane ;1;Stück;Obst/Gemüse;9;0,07;0;0;0,07;0;0;0; Die Natur dankt es dir, dass du dich gegen ein tierisches Produkt entschieden hast.;1
+Apfel;1;Stück;Obst/Gemüse;14,4;0,04;0;0;0,04;0;0;0; Heimische Äpfel aus wasserreichen Gegenden sind kein Problem für die Umwelt.;1
+Avocado;1;Stück;Obst/Gemüse;44,9;0,2;0;0;-0,2;0;0;-45; Avocados werden meist in wasserarmen Gegenden angebaut und nach Deutschland verschifft. Avocados aus ökologischem Anbau stellen in der Regel kein Problem dar, sollten jedoch auch nicht zu oft auf dem Speiseplan stehen.;-1      
+Bohnen ;100;gramm;Nüsse und Hülsenfrüchte;16,23;0,06;0;0;0,06;0;0;0; Bohnen sind eine sehr gute Proteinquelle mit gutem ökologischen Fußabdruck.;1
+Rind ;100;gramm;Proteine;1541,51;10,26;29,6;0;-10,26;-29,6;0;-1541,51; Landwirtschaft ist weltweit für 70 Prozent des Wasserverbrauchs verantwortlich, 70% wird davon für Tiernahrung genutzt. Entscheide dich beim nächsten Mal lieber für eine pflanzliche Proteinquelle wie Bohnen.;-1
+Bier;500;ml;Getränke;9,7;0,7;0;0;-0,7;0;0;0; Entscheide dich beim nächsten Mal lieber für ein Glas Wein, dieses produziert nur die Hälfte an Kohlenstoffdioxid.;-1
+Trauben ;100;gramm;Obst/Gemüse;33,48;0,12;0;0;0,12;0;0;0; Die Natur dankt es dir, dass du dich gegen ein tierisches Produkt entschieden hast.;1
+Brot;1;Scheibe;Getreide ;24,64;0,05;0;0;0,05;0;0;0; Brot ist eine sehr gute Kohlenhydratquelle und erzeugt von allen Kohlenhydratquellen am wenigsten Kohlenstoffdioxid.;1
+Käse;30;gramm;Milchprodukte;226,6;0,96;3,5;0;-0,96;0;0;-226,6; Käse verbraucht in der Produktion sehr viel Wasser, greife stattdessen doch lieber auf einen vegetarischen Brotaufstrich zurück.;-1 
+Huhn ;100;gramm;Proteine;121,62;1,81;2,13;0;-1,81;0;0;0; Statt 100 gramm Hünerfleisch zu essen, könntest du von der selben Menge Kohlenstoffdioxid 12 Minuten warm duschen.;-1 
+Schokolade dunkel ;1;Tafel;Süßwaren ;24,77;1,48;2,14;0;-1,48;0;0;0; Kakao wird meist in wasserarmen Regionen angebaut. Achte beim Kauf darauf, dass die Schokolade ein ÖkoSiegel hat.-1 
+Orange ;1;Stück;Obst/Gemüse;28;0,03;0;0;0,03;0;0;0; Orangen produzieren nur ein Drittel so viel Kohlenstoffdioxid wie Trauben.;1 
+Kaffee;1;Tasse;Getränke;132;0,42;0;0;-0,42;0;0;0; Kaffee  wird wie Kakao meist in wasserarmen Gegenden angebaut und nach Deutschland verschifft. Trinke beim nächsten Mal lieber ein Glas Orangensaft zum Frühstück.;-1
+Eier;1;Stück;Proteine;34,4;0,28;0;0;-0,28;0;0;0; Eier sind zwar die beste tierische Proteinquelle hinsichtlich der Kohlstoffdioxidentstehung, dennoch lohnt sich ein Umstieg auf Tofu mit weniger als halb so viel Kohlenstoffdioxid.;-1
+Fisch Farm ;100;gramm;Proteine;362,06;1,34;0;0;-1,34;0;0;-362,06; Fisch liegt im Wasserverbrauch sogar noch über Schweinefleisch, hinzu kommt, dass die Überfischung der Weltmeere immmer stärkere Auswirkungen auf die Umwelt hat.;-1
+Lamm ;100;gramm;Proteine;1000;5,77;53,81;0;-5,77;-53,81;0;0; Lamm produziert nach Rindfleisch das meiste Kohlenstoffdioxid. Tausche es doch lieber gegen Tofu aus.;-1
+Mandelmilch ;200;ml;Milchersatzprodukt;74,08;0,14;0;0;0,14;0;0;0; Mandelmilch verbraucht weniger als halb so viel Wasser wie Kuhmilch und auch der KOhlenstoffdioxidanteil bei der Produktion ist erheblich geringer.;1
+Kuhmilch ;200;ml;Milchprodukte;125,3;0,63;1,7;0;-0,63;0;0;-125,3; Bei der Produktion von Kuhmilch wird sehr viel Wasser verschwendet. Milchalternativen wie Mandelmilch sind ein guter Ersatz um der Umwelt etwas gutes zu tun.;-1 
+Hafermilch ;200;ml;Milchersatzprodukt;9,62;0,18;0;0;0,18;0;0;0; Hafermilch ist das beste Milchersatzprodukt auf dem Markt. Damit hast du der Umwelt sehr viel Kohlenstoffdioxid in der Atmosphäre erspart.;1
+Reismilch;200;ml;Milchersatzprodukt;53,81;0,24;0;0;0,24;0;0;0; Reismilch ist schon eine sehr gute Alternative zur normalen Milch. Leider wird bei der Produktion von Reis trotzdem sehr viel Wasser verbraucht.;-1    
+Sojamilch ;200;ml;Milchersatzprodukt;5,6;0,195;0;0;0,195;0;0;0; Sojamilch ist eine sehr gute Alternative zur Kuhmilch. Die Natur dankt dir.;1 
+Nüsse ;100;gramm;Nüsse und Hülsenfrüchte;133,3;0,01;0;0;0,01;0;0;0; Nüsse sind hinsichtlich der Kohlenstoffdioxiderzeugung die beste Proteinquelle.;1
+Haferflocken ;100;gramm;Getreide ;68,53;0,3;0;0;0,3;0;0;0;Haferflocken sind nicht nur gut für den Körper, sondern auch für die Umwelt.;1 
+Nudeln ;100;gramm;Getreide ;76,69;0,16;0;0;0,16;0;0;0; Nudeln verbrauchen im Gegensatz zu Reis sehr wenig Wasser im Anbau.;1 
+Erbsen ;100;gramm;Nüsse und Hülsenfrüchte;;0,03;0;0;0,03;0;0;0; Erbsen bieten dem Körper reichlich Mineralien und sind ökologisch eine super Eiweißquelle.;1
+Schweinefleisch ;100;gramm;Proteine;349,8;2,38;3,39;0;-2,38;-3,39;0;-349,8; Der Wasserverbrauch von Fleisch ist um vielfaches höher als bei der gleichen Menge Getreide oder Gemüse. Ein Umstieg auf eine pflanzliche Alternative wie Tofu lohnt sich.;-1 
+Kartoffeln ;100;gramm;Obst/Gemüse;13,5;0,04;0;0;0,04;0;0;13; Kartoffeln sind ökologisch eine sehr gute Kohlenhydratquelle. Gute Entscheidung.;1 
+Reis ;100;gramm;Getreide ;1401,42;2,75;0;0;0;0;0;-1401,42; Der Wasserverbauch beim Anbau von Reis ist immens hoch. Setze lieber auf Kohlenhydrate aus Kartoffeln oder Nudeln.;-1 
+Tee ;1;Tasse;Getränke;15;0,04;0;0;0;0;0;15; Tee ist eine sehr gute Alternative zum morgentlichem Kaffee. Weiter so.;-1 
+Tofu ;100;gramm;Proteine;7,5;0,16;0;0;0,16;0;0;0; Gut, dass du dich für Tofu entschieden hast. Tofu ist eine der besten Alternativen zu tierischen Produkten.;1 
+Tomate ;1;Stück;Obst/Gemüse;29,5;0,16;0;0;-0,16;0;0;11; Der Anbau von Tomaten findet oft in beheizten Treibhäusern statt, weshalb viel Kohlenstoffdixoxid in die Umwelt abgegeben wird.;-1 
+Auto Stadt ;1;km;Transportmittel;0;0,25;0;0;-0,25;0;0;0; Bei deiner Fahrt mit dem Auto wurde sehr viel Kohlenstoffdixoid ausgestoßen, nehme doch beim nächsten mal lieber das Fahrrad.;-1
+Auto Autobahn ;1;km;Transportmittel;0;0,19;0;0;-0,19;0;0;0; Bei deiner Fahrt mit dem Auto wurde sehr viel Kohlenstoffdixoid ausgestoßen, nehme doch beim nächsten mal lieber den Zug.;-1 
+Flugzeug;1;km;Transportmittel;0;0,38;0;0;-0,38;0;0;0; Der Kohlenstoffdioxidausstoß bei Flügen ist immens hoch. Schaue doch, ob du dein Reiseziel auch mit der Bahn erreichen kannst. Besonders bei kürzeren Strecken ist der Zeitunterschied durch Check-In und Wartezeiten am Flughafen sehr gering.;-1 
+Sneaker ;1;Stück;Kleidung ;8000;0;0;0;0;0;0;-8000; Die Produktion von neuen Schuhen wird meist nach Asien verlegt. Zusätzlich wird durch das Färben wird sehr viel Wasser verbraucht.;-1
+Baumwoll-Tshirt ;1;Stück;Kleidung ;2700;0;0;0;0;0;0;-2700; Baumwoll-Tshirts verbrauchen in der Produktion und im Anbau der Baumwolle sehr viel Wasser. Schaue lieber in einem Secondhandladen nach tollen Fundstücken.;-1 
+Jeans ;1;Stück;Kleidung ;11000;0;0;0;0;0;0;-11000; Die Produktion von Jeans ist auf Platz 1 der Wasserverschwendung bei der Kleidungsherstellung. Vielleicht findest du in einem Secondhandladen um die Ecke ein ebenbürtiges Paar.;-1
+Gurke ;1;Stück;Obst/Gemüse;70,6;0;0;0;0;0;-5;-70,6; Der Anbau von Gurken verbraucht sehr viel Wasser. Meist sind diese ebenfalls eingeschweift.;-1 
+Pizza Margharita ;1;Stück;Fertigprodukte ;1259;0;0;0;0;0;0;-1259; Der Wasserverbrauch von Fertigprodukten ist durch die Produktion der einzelnen Inhaltsstoffe in unterschiedlichen Ländern sehr hoch. Das Backen einer eigenen Pizza ist nicht schwer und schmeckt um einiges besser.;-1
+Shampoo ;1;Stück;Hygienemittel;0;0;0;30;0;0;-30;0; Shampoos sind größtenteils in Plastikflaschen zu kaufen, welche auch in Deutschland größtenteils nicht recycled werden. Hast du schon einmal als Alternative ein festes Shampoo ausprobiert?;-1 
+Neuwagen ;1;Stück;Transportmittel;400000;0;0;0;0;0;0;-400000; Die Produktion eines Neuwagens verbraucht Unmengen an Wasser. Vvielleichgt findesßt du ja ein weitaus günstigeres Fahrzeug bei einem Gebrauchtwagenportal.;-1 
+Fahrrad ;1;km;Transportmittel;0;0,23;0;0;0,23;0;0;0; Danke, dass du das Auto stehen gelassen hast. Der eingesparte Kohlenstoffdioxidanteil wird dir gutgeschrieben.;1 
+zu Fuß ;1;km;Transportmittel;0;0,23;0;0;0,23;0;0;0; Danke, dass du mit zu Fuß gegangen bist. Der eingesparte Kohlenstoffdioxidanteil wird dir gutgeschrieben.;1 
+Plastiktüte;1;Stück;Verpackung ;0;0;0;5;0;0;-5;0; Plastiktüten werden oft nur einmal benutzt und dann weggeschmissen. Hole dir doch lieber eine faltbare Tragetasche. Auf Dauer ist diese um einiges klimafreundlicher.;-1 
+Plastikflasche;1;Stück;Getränke;0;0;0;30;0;0;-30;0; Die meisten Plastikflaschen werden auch in Deutschland nicht recycled und landen in Verbrennungsanlagen oder in der Natur. Eine Glasflasche lässt das Wasser besser schmecken und spart viel Plastik in der Natur.;-1 
+Umweltschutzspende ;1;EUR;Spende;0;0;0;0;0,2;10;10;50; Vielen Dank für deine Spende. Durch diese kann sich die Umwelt ein wenig erholen.;1 
+Karotten;100;gramm;Obst/Gemüse;0;0;0;0;0;0;0;13; Karotten sind eine der Lebensmittel, die am wenigsten Wasser verbrauchen. Esse gerne mehr davon.;1 
