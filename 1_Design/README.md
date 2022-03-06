@@ -1,38 +1,58 @@
-> Have a look below for some impressions
+> Have a look below for some impressions _below all photos_
 
 ## Menu
 
-<img width="200" alt="Mainmenu" src="https://user-images.githubusercontent.com/56310257/138764911-2d583d9f-0a10-43a6-b9ce-d176d3ac2724.png">
+<img width="251" alt="startmenu" src="https://user-images.githubusercontent.com/56310257/156933673-e3b31929-5313-48f8-b251-e33cd03cb4d5.png">
 
-<img width="200" alt="Menu - Add Behaviour" src="https://user-images.githubusercontent.com/56310257/138764917-dd3917d5-2aa6-4089-867d-3ba1b19cca0e.png">
+--> Eintrag hinzufügen
+<img width="271" alt="dropdown" src="https://user-images.githubusercontent.com/56310257/156933687-37dec192-d19b-415a-9049-9eed2d3125c0.png">
 
+--> Eintrag hinzugefügt
+<img width="256" alt="added" src="https://user-images.githubusercontent.com/56310257/156933695-83eb7734-9d23-4b9c-bf56-a37c74428a0e.png">
 
-## Garden
-good condition  
-<img width="400" alt="Garden - good condition" src="https://user-images.githubusercontent.com/56310257/138765041-3654368d-f0b7-462d-82ce-e7ea165dd60c.png">  
-bad condition  
-<img width="400" alt="Garden - bad condition" src="https://user-images.githubusercontent.com/56310257/138765137-03de460c-3b2d-466e-9866-b027029a3eed.png">
+## Tagebuch
 
-## Garden placed with AR
+<img width="301" alt="logbuch" src="https://user-images.githubusercontent.com/56310257/156933699-5556cd08-d898-446b-94b3-264a28f014bf.png">
+
+## AR Placement (the garden here is while developing)
 
 https://user-images.githubusercontent.com/56310257/138765487-27588ae2-b61b-42c3-9c56-766db55c0a7b.mov
 
+## Garden
+
+good condition  
+<img width="431" alt="Garden - good condition" src="https://user-images.githubusercontent.com/56310257/156933720-4c6b78a1-5088-4447-b9c9-1ebb06edcb05.png">
+
+bad condition  
+<img width="264" alt="Garden - bad condition" src="https://user-images.githubusercontent.com/56310257/156933723-834eaead-c6a6-4cad-bf42-2062228766f0.png">
+
 ## Changes of the Garden
 
-<img width="850" alt="All Tree Versions" src="https://user-images.githubusercontent.com/56310257/138765155-f33b25b9-dcf8-4382-814b-b9b5dd60400a.png">
-
-positiv change (best level of trees)  
-<img width="350" alt="Best condition Tree" src="https://user-images.githubusercontent.com/56310257/138765254-bf97e4a0-5346-4a1c-8c3d-a9b3b5378cd9.png">  
-negative change   
-<img width="350" alt="changed negativ" src="https://user-images.githubusercontent.com/56310257/138765390-587d8ec1-6c18-4568-8f70-71490e57c1b2.png">
+<img width="251" alt="changed positive" src="https://user-images.githubusercontent.com/56310257/156933739-ce930b33-070b-41c8-b6d6-164a744ad76b.png">
+<img width="255" alt="changed negativ" src="https://user-images.githubusercontent.com/56310257/156933741-0b891b8c-3757-499e-883c-6c2d77e26f0a.png">
 
 ### UI for changes --> open when you click on the yellow triangle Sign in the speachbubble
-<img width="270" alt="UI - Info" src="https://user-images.githubusercontent.com/56310257/138765542-3c884a0b-0361-458b-95fc-b8dca8f6bd1d.png">
 
-## Water with Trash
+<img width="270" alt="UI - Info" src="https://user-images.githubusercontent.com/56310257/156933774-830c64b5-23c6-4a20-b7c9-b74c316d1374.png">
+
+## Trees Versions
+<img width="885" alt="All Tree Versions" src="https://user-images.githubusercontent.com/56310257/156933813-6c094e67-4b9d-4c55-bad3-049206b2048b.png">
+
+### Best version
+<img width="254" alt="Best condition Tree" src="https://user-images.githubusercontent.com/56310257/156933804-225534e3-ca49-441d-8c0a-eb9591148898.png">
+
+## Animation of Trash in Water
 
 https://user-images.githubusercontent.com/56310257/138765415-e39863a6-3491-4c69-aa8b-02687bc66733.mov
 
+
+_______________________________
+
+some impressions while developing
+
+<img width="320" alt="Garden while developing" src="https://user-images.githubusercontent.com/56310257/156933864-6134d8d8-0605-4341-ad2f-fa0445fdc0ea.png">
+
+<img width="770" alt="Garden while developing_2" src="https://user-images.githubusercontent.com/56310257/156933865-e74f7cf9-7723-4c89-9750-9241fa8bdc2e.png">
 
 
 
